@@ -45,6 +45,8 @@ The project follows Medallion Architecture:
 **Silver Layer:** Data cleansing and standardization.
 
 **Gold Layer:** Business-ready data modeled in a star schema.
+![data_architecture](https://github.com/user-attachments/assets/0615ac9b-8597-4633-8486-628113bf2be5)
+
 
 ## 🛠️ Technologies
 **Database:** SQL Server
